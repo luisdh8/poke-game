@@ -1,0 +1,19 @@
+.pad-container {
+	width: 60px;
+	height: 60px;
+	background-color: black;
+}
+
+.pad-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 2px;
+}
+
+.pad-button {
+	background-color: blue;
+	width: 40px;
+	height: 40px;
+	border: none;
+	cursor: pointer;
+}

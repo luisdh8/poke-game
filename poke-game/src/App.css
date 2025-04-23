@@ -1,0 +1,15 @@
+.app-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.game-container {
+	width: 350px;
+	height: 500px;
+	background-color: red;
+}
+
+.buttons-container {
+	display: flex;
+	justify-content: space-around;
+}

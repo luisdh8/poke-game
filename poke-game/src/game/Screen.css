@@ -1,0 +1,12 @@
+.screen-wrapper {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	display: flex;
+	justify-content: center;
+}
+
+.screen-display {
+	width: 85%;
+	height: 200px;
+	background-color: olive;
+}
