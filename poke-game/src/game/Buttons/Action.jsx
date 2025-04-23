@@ -1,5 +1,5 @@
 import React from "react";
-import "./Action.css";
+import "./styles/Action.css";
 
 export const Action = () => {
 	return (
