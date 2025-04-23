@@ -1,0 +1,33 @@
+.start-select-wrapper {
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-select-container {
+    width: 120px;
+    height: 60px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    transform: rotate(-25deg);
+}
+
+.start-select-button {
+    background-color: #4F4F4F;
+    width: 45px;
+    height: 12px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 10px;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+.start-select-button:active {
+    transform: scale(0.95);
+}
